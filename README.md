@@ -4,7 +4,7 @@ This is a lightweight yet powerful development board based on the **Allwinner F1
 
 ---
 <p align="center">
-  <img src="PCB1.9.PNG" alt="Board Image" width="500">
+  <img src="PCB1.9.PNG" alt="Board Image" width="700">
 </p>
 ---
 
