@@ -3,6 +3,10 @@
 This is a lightweight yet powerful development board based on the **Allwinner F1C200s** SoC — a low-power ARM926EJ-S processor with an integrated 2D GPU. Designed for **graphical user interfaces (GUI)**, **multimedia playback**, and **embedded control systems**, the board offers a compact platform for embedded Linux development.
 
 ---
+<p align="center">
+  <img src="PCB.PNG" alt="Board Image" width="500">
+</p>
+---
 
 ## ⚙️ Key Features
 
